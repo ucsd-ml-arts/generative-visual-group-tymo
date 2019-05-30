@@ -1,6 +1,6 @@
 # Project 4 Generative Visual
 
-Your Name, yourcontact@ucsd.edu
+Tyler Farnan, tfarnan@ucsd.edu
 (Your teammate's contact info, if appropriate)
 
 ## Abstract
